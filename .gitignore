@@ -1,0 +1,27 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+.Xil/
+
+# Vivado generated reports (if running script in repo)
+vivado-reports/
+*.rpt
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
